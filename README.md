@@ -1,6 +1,7 @@
 # Hi, I'm Alavudeen Ahamed
 
-AI Engineering | System Design | Data Analysis
+AI Engineering | System Design | Data Analysis | Building serverless systems, RAG apps, AI agents, and analytics dashboards
+
 
 I build scalable serverless systems, practical AI applications, and data-driven dashboards. My work focuses on AWS cloud architecture, LLM-powered applications, RAG pipelines, automation workflows, and analytics projects that turn real-world problems into working products.
 
