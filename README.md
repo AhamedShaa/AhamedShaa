@@ -5,7 +5,7 @@ AI Engineer building LLM-powered systems, scalable AWS backends, and real-world 
 
 I build production-oriented AI systems and scalable cloud applications. My work focuses on LLM-powered applications, RAG pipelines, hybrid search systems, and AWS-based serverless architectures that solve real-world problems.
 
-[![GitHub](https://github.com/AhamedShaa)
+[![GitHub][github.com/AhamedShaa](https://github.com/AhamedShaa)
 [![LinkedIn](https://www.linkedin.com/in/alavudeenahamed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-2E7D32?style=for-the-badge)](#featured-projects)
 
@@ -86,15 +86,10 @@ I build production-oriented AI systems and scalable cloud applications. My work 
 - Improving project documentation with architecture diagrams, case studies, and deployment notes.
 - Turning GitHub projects into a professional engineering portfolio.
 
-## GitHub Stats
-
-![Ahamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhamedShaa&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedShaa&layout=compact&hide_border=true)
 
 ## Contact
 
 - GitHub: [github.com/AhamedShaa](https://github.com/AhamedShaa)
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: (https://www.linkedin.com/in/alavudeenahamed)
 - Portfolio: Coming soon
-- Email: Add your professional email here
+- Email: ahmedshaa49@gmail.com
