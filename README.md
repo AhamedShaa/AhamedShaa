@@ -1,11 +1,11 @@
 # Hi, I'm Alavudeen Ahamed
 
-AI Engineering | System Design | Data Analysis
+AI Engineer building LLM-powered systems, scalable AWS backends, and real-world data products
 
 
-I build scalable serverless systems, practical AI applications, and data-driven dashboards. My work focuses on AWS cloud architecture, LLM-powered applications, RAG pipelines, automation workflows, and analytics projects that turn real-world problems into working products.
+I build production-oriented AI systems and scalable cloud applications. My work focuses on LLM-powered applications, RAG pipelines, hybrid search systems, and AWS-based serverless architectures that solve real-world problems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AhamedShaa-181717?style=for-the-badge&logo=github)](https://github.com/AhamedShaa)
+[![GitHub](https://github.com/AhamedShaa)
 [![LinkedIn](https://www.linkedin.com/in/alavudeenahamed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-2E7D32?style=for-the-badge)](#featured-projects)
 
