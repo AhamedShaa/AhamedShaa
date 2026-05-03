@@ -79,13 +79,6 @@ I build production-oriented AI systems and scalable cloud applications. My work 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 
-## Current Focus
-
-- Building stronger system design projects with AWS and Terraform.
-- Creating applied AI engineering projects using RAG, vector search, agents, and automation.
-- Improving project documentation with architecture diagrams, case studies, and deployment notes.
-- Turning GitHub projects into a professional engineering portfolio.
-
 
 ## Contact
 
